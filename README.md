@@ -11,4 +11,4 @@
 
 ## Beurten
 1. n goed
-2. f 
+2. f fout
