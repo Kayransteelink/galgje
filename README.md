@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-|A|.|i|.|.|
+|A|.|i|.|e|
 |-|-|-|-|-|
 |1|2|3|4|5|
 
@@ -15,4 +15,4 @@
 3. request I goed
 4. request K fout
 5. request O fout
-6. request E
+6. request E goed
