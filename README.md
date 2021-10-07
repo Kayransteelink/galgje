@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-|A|.|.|.|.|
+|A|.|i|.|.|
 |-|-|-|-|-|
 |1|2|3|4|5|
 
@@ -12,4 +12,4 @@
 ## Beurten
 1. reqA is goed
 2. request L fout
-3. request I
+3. request I goed
