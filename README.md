@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-|A|n|i|.|e|
+|A|n|i|m|e|
 |-|-|-|-|-|
 |1|2|3|4|5|
 
@@ -17,4 +17,4 @@
 5. request O fout
 6. request E goed
 7. request N goed
-8. Is het woord 'Anime'?
+8. Is het woord 'Anime'? wauw je hebt het woord geraden congartulations!!!!!
