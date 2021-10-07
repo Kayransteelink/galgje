@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-|.|n|.|.|.|
+|.|.|.|.|.|
 |-|-|-|-|-|
 |1|2|3|4|5|
 
@@ -10,6 +10,4 @@
 ![gallow](./images/1.png)
 
 ## Beurten
-1. n goed
-2. f fout
-3. e
+1. reqA
