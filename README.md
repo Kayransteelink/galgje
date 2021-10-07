@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-|.|.|.|.|.|
+|A|.|.|.|.|
 |-|-|-|-|-|
 |1|2|3|4|5|
 
@@ -10,4 +10,4 @@
 ![gallow](./images/1.png)
 
 ## Beurten
-1. reqA
+1. reqA is goed
