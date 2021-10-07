@@ -11,3 +11,4 @@
 
 ## Beurten
 1. reqA is goed
+2. request L
