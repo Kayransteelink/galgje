@@ -18,3 +18,4 @@
 6. request E goed
 7. request N goed
 8. Is het woord 'Anime'? wauw je hebt het woord geraden congartulations!!!!!
+9. lets go ggggggg
